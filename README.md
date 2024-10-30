@@ -1,4 +1,4 @@
-# Little Lemon Web Application
+## Little Lemon Web Application
 
 ## Introduction 
 This is the final project for Meta Back-End Developer Capstone course (https://www.coursera.org/learn/back-end-developer-capstone/)
